@@ -1,7 +1,7 @@
 
 import streamlit as st
 from google.cloud import bigquery
-#from utils import  query_size, scatter_plot, hist_plot, brushing_scatter_plot
+from utils import  query_size, #scatter_plot, hist_plot, brushing_scatter_plot
 import time
 
 
